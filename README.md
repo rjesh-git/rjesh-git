@@ -1,4 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&color=791192&lines=Rajesh+Sitaraman+-+Cloud+Solution+Architect)
 ### Hi there 👋
 
 - 💻 I’m currently working at [@corebts](https://corebts.com) helping our customers with modernization and the successful adoption of cloud solutions. I'm a former Microsoft MVP.
@@ -7,6 +6,6 @@
   - Twitter : [@rjesh](https://twitter.com/rjesh)
   - LinkedIn : [rajeshsitaraman](https://www.linkedin.com/in/rajeshsitaraman)
   
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjesh-git&show_icons=true&theme=radical)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rjesh-git&theme=onedark)
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjesh-git&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjesh-git&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&hide=C%23&layout=compact) |
